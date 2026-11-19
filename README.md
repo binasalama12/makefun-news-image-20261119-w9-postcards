@@ -1,12 +1,11 @@
 # makefun-news-image-20261119-w9-postcards
-
 [![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![rank](https://make.fun/badge/news-image-20261119/binasalama12/makefun-news-image-20261119-w9-postcards/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/binasalama12/makefun-news-image-20261119-w9-postcards/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-Postcards From A Thursday: six postcards from the places Thursday, 19 November 2026 happened — Vice City everywhere, Shenzhen, Brussels, deep space, New York and the Odisha coast.
+"Postcards From A Thursday" collects 19 November 2026 as a collage of six postcards, each franked from somewhere the day happened. Shenzhen sends the APEC summit, with Trump, Xi and Putin around one table. The Gulf sends rougher news, US and Iranian forces exchanging fire. Brussels and Kyiv share a card about the EU's proposed EUR 45 billion loan for Ukraine, and deep space sends the slowest postcard of all: Voyager 1, now a full light-day from home.
 
-A postcard forces the point: one scene, one line, wish you were there. Six of them, read together, are the day.
+The remaining two cards keep the set human. Washington writes that Democrats have nominated Hakeem Jeffries, on course to be the first Black Speaker, and the last card is postmarked everywhere at once, because GTA VI's global launch after thirteen years belonged to no single city. Postcards force brevity and warmth at the same time, which is exactly the tension in summarising a heavy news day in one friendly image.
 
 ## Run it
 
